@@ -29,5 +29,5 @@ Deployed [Portfolio](https://gaitherdb.github.io/Portfolio2/) site on Github.
 * Some text and images highlight when hovered.
 * Alt tags are provided for images to help users that use disability extentions.
 
-**Version 1.0**
+**Version 1.1**
 
